@@ -1,6 +1,6 @@
-package udc.edu.psw;
+package udc.edu.psw.dataHora;
 
-public class principal {
+public class Principal {
 	public static void main (String[] args) {
 		Hora hora = new Hora((byte)21,(byte)40);
 		
